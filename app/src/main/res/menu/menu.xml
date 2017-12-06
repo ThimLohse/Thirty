@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--New Game Action Button. Ska alltid finnas tillgänglig om användaren vill börja om-->
+    <item
+        android:id="@+id/icon_new_game"
+        android:title="@string/new_game_menu_text"
+        app:showAsAction="ifRoom"
+        />
+
+
+</menu>

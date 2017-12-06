@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Thirty By T</string>
+    <string name="btn_throw_text">Kasta</string>
+    <string name="btn_calculate_text">Beräkna poäng</string>
+    <string name="results_round_text">Omgång</string>
+    <string name="results_score_text">Poäng</string>
+    <string name="results_score_choice_text">Poängval</string>
+    <string name="results_score_total_text">Total poäng är: </string>
+    <string name="new_game_menu_text">Nytt Spel</string>
+    <string name="alert_message">vill du verkligen börja en nytt spel?</string>
+    <string name="alert_positive">Ja</string>
+    <string name="alert_negative">Nej</string>
+    <string name="alert_title">Nytt spel</string>
+    <string name="current_round_text">Omgång: </string>
+    <string name="current_throw_text">Kast: </string>
+    <string name="game_over_text">Spelet är slut</string>
+    <string name="new_game_identifier_string">NewGame</string>
+
+
+</resources>
